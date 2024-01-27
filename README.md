@@ -1,5 +1,5 @@
 # USER CRUD MYSQL
-This application is a practical example of how to create a CRUD in this case using a database with a user table.
+This application is a practical example of how to create a CRUD in this case using a database MySQL.
 
 Technologies:
 
